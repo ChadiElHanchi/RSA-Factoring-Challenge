@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import time
+Import time
 import math
 import sys
 
